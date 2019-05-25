@@ -19,5 +19,5 @@
    </code></pre>
  
 2. <p>Model Gudang (Mendeklarasikan tabel barang dan isinya)</p>
-    ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-
+    ![alt text](https://github.com/mahendragalih26/RestAPI-CRUD-Laravel/blob/master/img/create.PNG)
+    
