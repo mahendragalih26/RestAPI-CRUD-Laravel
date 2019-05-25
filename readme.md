@@ -19,5 +19,26 @@
    </code></pre>
  
 2. <p>Model Gudang (Mendeklarasikan tabel barang dan isinya)</p>
-    ![alt text](https://github.com/mahendragalih26/RestAPI-CRUD-Laravel/blob/master/img/create.PNG)
+    <img src="https://github.com/mahendragalih26/RestAPI-CRUD-Laravel/blob/master/img/model.PNG">
     
+3. <p>System Routing (Menghubungkan controller)</p>
+    <img src="https://github.com/mahendragalih26/RestAPI-CRUD-Laravel/blob/master/img/routeapi.PNG">
+
+4. <p>+ ApiController Create Data</p>
+    <img src="https://github.com/mahendragalih26/RestAPI-CRUD-Laravel/blob/master/img/create.PNG"> 
+   <p>+ ApiController Show Data</p>
+    <img src="https://github.com/mahendragalih26/RestAPI-CRUD-Laravel/blob/master/img/showall.PNG">
+    <p>Saat dijalankan</p>
+    <img src="https://github.com/mahendragalih26/RestAPI-CRUD-Laravel/blob/master/img/postid1.PNG">
+   <p>+ ApiController Show Data berdasarkan ID</p>
+    <img src="https://github.com/mahendragalih26/RestAPI-CRUD-Laravel/blob/master/img/showbyid.PNG">
+    <p>Saat dijalankan</p>
+    <img src="https://github.com/mahendragalih26/RestAPI-CRUD-Laravel/blob/master/img/postid.PNG">
+   <p>+ ApiController Edit Data</p>
+    <img src="https://github.com/mahendragalih26/RestAPI-CRUD-Laravel/blob/master/img/updateid.PNG">
+    <p>Saat dijalankan</p>
+    <img src="https://github.com/mahendragalih26/RestAPI-CRUD-Laravel/blob/master/img/postid2.PNG">
+   <p>+ ApiController Delete Data</p>
+    <img src="https://github.com/mahendragalih26/RestAPI-CRUD-Laravel/blob/master/img/deleteid.PNG">
+    <p>Saat dijalankan</p>
+    <img src="https://github.com/mahendragalih26/RestAPI-CRUD-Laravel/blob/master/img/postid3.PNG">
