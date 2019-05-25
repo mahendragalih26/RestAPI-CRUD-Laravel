@@ -8,11 +8,11 @@
 </p>
 
 ##Penyammbungan dengan Database
-1. <pre>DB_CONNECTION=mysql</pre>
-   <pre>DB_HOST=127.0.0.1</pre>
-   <pre>DB_PORT=3306</pre>
-   <pre>DB_DATABASE=gudang</pre>
-   <pre>DB_USERNAME=root</pre>
-   <pre>DB_PASSWORD=</pre>
+1. <pre>DB_CONNECTION=mysql<br>
+   DB_HOST=127.0.0.1<br>
+   DB_PORT=3306<br>
+   DB_DATABASE=gudang<br>
+   DB_USERNAME=root<br>
+   DB_PASSWORD=</pre>
 
 
