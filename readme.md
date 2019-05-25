@@ -17,5 +17,16 @@
    DB_USERNAME=root
    DB_PASSWORD=
    </code></pre>
+ 
+2. <p>Model Gudang (Mendeklarasikan tabel barang dan isinya)</p>
+    <pre><code>
+    class Gudang extends Model
+{
+    protected $table = 'barang';
+    public $timestamps = false;
+    protected $fillable = ['nama', 'harga', 'item', 'jenis'];
+}
+
+   </code></pre>
 
 
