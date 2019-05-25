@@ -7,3 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+##Penyammbungan dengan Database
+1. <pre>
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=gudang
+DB_USERNAME=root
+DB_PASSWORD=
+</pre>
+
