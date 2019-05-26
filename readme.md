@@ -7,7 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-##Proses Instalasi
+## Struktur Database
+
+1. <p>Design Tabel (Mendeklarasikan tabel barang dan isinya)</p>
+    <img src="https://github.com/mahendragalih26/RestAPI-CRUD-Laravel/blob/master/img/db3.PNG">
+
+##Struktur System
 1. <p>Koneksi ke database</p>
     <pre><code>
    DB_CONNECTION=mysql
