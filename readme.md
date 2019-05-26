@@ -9,10 +9,10 @@
 
 ## Struktur Database
 
-1. <p>Design Tabel (Mendeklarasikan tabel barang dan isinya)</p>
+1. <p>Design Tabel (Struktur tabel barang)</p>
     <img src="https://github.com/mahendragalih26/RestAPI-CRUD-Laravel/blob/master/img/db3.PNG">
 
-##Struktur System
+## Struktur System
 1. <p>Koneksi ke database</p>
     <pre><code>
    DB_CONNECTION=mysql
